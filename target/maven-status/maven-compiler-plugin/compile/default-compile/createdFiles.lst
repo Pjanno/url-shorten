@@ -1,0 +1,5 @@
+br\pjanno\shortener\repository\ShortenRegisterRepository.class
+br\pjanno\shortener\controller\ShortenerController.class
+br\pjanno\shortener\model\ShortenRegister.class
+br\pjanno\shortener\ShortenerApplication.class
+br\pjanno\shortener\service\ShortenerService.class
